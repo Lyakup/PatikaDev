@@ -9,8 +9,10 @@ namespace PatikaDev_ConsoleApp
             Console.WriteLine("Merhaba, İsminizi Giriniz ?");
             string inputName = Console.ReadLine();
 
-            Console.WriteLine("Hoşgeldin");
+            Console.WriteLine("Hoşgeldin!");
             Console.WriteLine(inputName);
+
+            Console.WriteLine("yazılış tarihi : 25/01/2020 - 08:46");
         }
     }
 }
